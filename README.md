@@ -1,1 +1,2 @@
+
 vanilla rails 8
