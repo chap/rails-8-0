@@ -1,3 +1,3 @@
-module source-blobber
+module goapp
 
 go 1.23.0
